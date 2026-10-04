@@ -1,5 +1,5 @@
 # Brigadier Implementation
-A simple example of how to implement mojang's brigadier library.
+A simple example implementation of mojang's brigadier library.
 
 ## Running
 _(all commands executed from project root directory)_  
